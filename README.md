@@ -1,7 +1,7 @@
 
 # Deterministic Variational Inference
 
-This code accompanies the publication **Fixing Variational Bayes: Deterministic Variational Inference for Bayesian Neural Networks**
+This code accompanies the publication [**Fixing Variational Bayes: Deterministic Variational Inference for Bayesian Neural Networks**](https://arxiv.org/abs/1810.03958)
 
 The notebook `ToyData.ipynb` demonstrates how to use the method to fit a toy 1-dimensional dataset and reproduce Figure 3 in the paper.
 
